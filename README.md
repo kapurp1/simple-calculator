@@ -5,10 +5,11 @@ Calculator application written in plain HTML+CSS+JavaScript+PHP
   - Pure HTML, CSS, JS, JQuery and PHP
   - Ajax is used to store values in Database
 
-.
-+-- db
-|   +-- calci.sql
-+-- save.php
+## Folder Structure:
+.<br />
++-- db<br />
+|   +-- calci.sql<br />
++-- save.php<br />
 +-- index.php
 
 # DataBase comand
